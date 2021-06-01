@@ -2,13 +2,13 @@
   <div class="container">
     <div class="row">
     <div class="col=sm">
-    <a href="/">Explore</a>
+    <b-link href="/">Explore</b-link>
     </div>
     <div class="col=sm">
-    <a href="/">Feed</a>
+    <b-link href="/">Feed</b-link>
     </div>
     <div class="col=sm">
-    <a href="/">Profile</a>
+    <b-link href="/">Profile</b-link>
     </div>
     
     <div>

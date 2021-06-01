@@ -11,37 +11,37 @@
  <div>
  <img src="UserPost" alt="UserPost">
  <caption>Caption</caption>
- <button>View in AR</button>
+ <b-button>View in AR</b-button>
  </div>
  <div>
  <img src="UserPost" alt="UserPost">
  <caption>Caption</caption>
- <button>View in AR</button>
+ <b-button>View in AR</b-button>
  </div>
  <div>
  <img src="UserPost" alt="UserPost">
  <caption>Caption</caption>
- <button>View in AR</button>
+ <b-button>View in AR</b-button>
  </div>
  <div>
  <img src="UserPost" alt="UserPost">
  <caption>Caption</caption>
- <button>View in AR</button>
+ <b-button>View in AR</b-button>
  </div>
  <div>
  <img src="UserPost" alt="UserPost">
  <caption>Caption</caption>
- <button>View in AR</button>
+ <b-button>View in AR</b-button>
  </div>
  <div>
  <img src="UserPost" alt="UserPost">
  <caption>Caption</caption>
- <button>View in AR</button>
+ <b-button>View in AR</b-button>
  </div>
  <div>
  <img src="UserPost" alt="UserPost">
  <caption>Caption</caption>
- <button>View in AR</button>
+ <b-button>View in AR</b-button>
  </div>
     </div>
     
