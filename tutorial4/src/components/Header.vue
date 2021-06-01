@@ -2,7 +2,7 @@
   <div class="container">
     <b-row>
     <b-col>
-    <h1>ARt Reality</h1>
+    <h1 style="padding-bottom:30px">ARt Reality</h1>
     </b-col>
     </b-row>
     <b-row class="row">
