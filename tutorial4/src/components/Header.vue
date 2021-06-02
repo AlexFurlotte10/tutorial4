@@ -1,5 +1,6 @@
-<template>
-  <div class="container">
+
+<template >
+  <div class="container" style="width: 100%; border-bottom: 4px solid #000; text-align: center; position: relative;">
     <b-row>
     <b-col>
     <h1 style="padding-bottom:30px">ARt Reality</h1>
@@ -14,6 +15,10 @@
     </b-col>
     <b-col class="col=sm" style="padding-left: 5px;">
     <b-link href="/" style="color: black;">Profile</b-link>
+    </b-col>
+   
+    <b-col class="col=sm" style="padding-left: 5px;">
+    <b-link href="/" style="color: black;">Log out</b-link>
     </b-col>
     
 

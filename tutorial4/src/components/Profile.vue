@@ -1,14 +1,25 @@
- <template :class="{body}">
+ 
+ <template>
  <div>
     <b-row style="padding: 50px">
         <b-col>
-    <p><b>Followers</b> <br> 1234</p>
-    </b-col>
+  <b-dropdown id="dropdown-1" text="Followers: 1234" class="m-md-2" variant="light">
+    <b-dropdown-item>ArtGirl456</b-dropdown-item>
+    <b-dropdown-item>ThatGraphicDesigner</b-dropdown-item>
+    <b-dropdown-item>Bobby</b-dropdown-item>
+    <b-dropdown-divider></b-dropdown-divider>
+  </b-dropdown>
+</b-col>
     <b-col>
     <b-img alt="Headshot" src="https://picsum.photos/300/150/?image=41" style="border-radius: 50%; width: 120px; height: 120px; margin-left: -30px;"></b-img>
     </b-col>
     <b-col>
-    <p><b>Following </b><br> 1234</p>
+  <b-dropdown id="dropdown-2" text="Following: 1234" class="m-md-2" variant="light">
+    <b-dropdown-item>ArtGirl456</b-dropdown-item>
+    <b-dropdown-item>Jeff Bezos</b-dropdown-item>
+    <b-dropdown-item>User14820</b-dropdown-item>
+    <b-dropdown-divider></b-dropdown-divider>
+  </b-dropdown>
     </b-col>
     <b-row>
         <b-col>
@@ -92,8 +103,5 @@
     </div>
     
   </template>
-  <style>
- .body {
-      background-color:black;
- }
-  </style>
+  
+ 
