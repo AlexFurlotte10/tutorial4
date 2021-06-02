@@ -31,7 +31,7 @@
 
     <b-row>
         <b-col>
-        <b-p style=" display: inline-block; margin:auto; padding-bottom: 50px; width: 500px;">Hello, my name is John Designman. I am a freelance product designer from Halifax, Nova Scotia. I am a passionate product designer looking for great clients!</b-p>
+        <b-p style=" display: inline-block; margin:auto; padding-bottom: 50px;">Hello, my name is John Designman. I am a freelance product designer from Halifax, Nova Scotia. I am a passionate product designer looking for great clients!</b-p>
         </b-col>
     </b-row>
     <b-button style="background-color: black;" >
