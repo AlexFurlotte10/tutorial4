@@ -1,24 +1,15 @@
-# tutorial4
+# Assignment 1
+Deployment
+https://tutorial4-ruby.vercel.app/
+Repo
+https://github.com/AlexFurlotte10/tutorial4/
 
-## Project setup
-```
-npm install
-```
+## Framework
+Vue.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Explanation of assignment
 
-### Compiles and minifies for production
-```
-npm run build
-```
+I have decided to focus on the Profile Page. This is the Profile Page feature of our website. This shows responsive design for desktop and mobile. There is dummy images, texts, and content. 
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Image references
+https://picsum.photos/300/150/?image=41 - This is from a copyright free website.
